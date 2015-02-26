@@ -1,0 +1,91 @@
+Example   File
+-------   -----------------
+
+* Chapter 3
+
+ 3- 3     c3/handlers.py
+
+          The import shown in the first line of the example should be
+          from the xml.sax.handler module, not XML.sax.handler (the
+          entire module name should be lower-case).
+
+ 3- 4     c3/index.py
+
+          The __init__() method of the Index class should be indented
+          two spaces.
+
+ 3- 6     c3/saxthumbs.py
+
+          The os module should be imported; add "import os" at the
+          top.
+
+ 3- 8     c3/genxml.py
+
+          There are two problems with the example as printed.  The
+          first is that the code assumes that the character "'" will
+          not be present in the method signatures read from the PyXML
+          sources; PyXML has evolved such that this is no longer
+          correct.  Both "'" and '"' are used in defining default
+          values of optional arguments, and can appear in the method
+          signatures.  This means that more elaborate quoting of the
+          signature lines is needed when using them as attribute
+          values in the generated XML.  The function quoteattr() has
+          been added to the example file to support this; if you are
+          using PyXML 0.7 or Python 2.2, a stronger version of this
+          function is defined in the xml.sax.saxutils module.
+
+          The second problem involves some careless string tests in
+          the line that starts 'elif line.find("def") > 0'; see the
+          example file for the corrected conditions.
+
+ 3- 9     c3/handlers.py
+
+          The startElement() method of the  PyXMLConversionHandler
+          should not print to standard output; the print statement can
+          simply be removed.
+
+* Chapter 7
+
+ 7- 5     c7/xpHandlers.py
+
+          The new_element_type() method should use two separate print
+          statements to avoid printing lines that are too long.  The
+          output displayed in the book matches the corrected version
+          of the method.
+
+* Chapter 8
+
+ 8- 4     c8/post.py
+
+          The example uses a hardcoded IP address and directs you to
+          change it to something more appropriate for you; the file
+          changes this to 127.0.0.1 (localhost), which you should not
+          need to change.  (Using the string "localhost" sometimes
+          fails on some platforms, such as Windows.)
+
+* Chapter 10
+
+10- 2     c10/CustomerProfile.py
+
+          Toward the end of the insertProfile() method, there is a
+          raise statement which attempts to raise
+          exception.Exceptions; the correct name for the exception is
+          simply Exception.
+
+10-12     c10/XMLSwitchHandler.py
+
+          In the processXMLMessagePost() method, the "rezult" variable
+          is set twice on two consecutive lines; the first can be
+          safely removed.
+
+          In the echoResponse() method, the value of the size
+          attribute of the <font> element written at the end of the
+          method should be enclosed in single quotes rather than
+          double quotes.
+
+10-15     c10/sp.py
+
+          In the doLogin() function, at the start of the long try
+          block, the getAttributeNS() DOM method is passed an empty
+          string as the namespace URI; this should be None for the
+          latest versions of the DOM implementations.

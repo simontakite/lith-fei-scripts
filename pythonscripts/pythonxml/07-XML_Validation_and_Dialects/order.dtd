@@ -1,0 +1,10 @@
+<!ELEMENT customer_name (#PCDATA)>
+<!ELEMENT sku (#PCDATA)>
+<!ELEMENT qty (#PCDATA)>
+<!ELEMENT unit_price (#PCDATA)>
+<!ELEMENT product_name (#PCDATA)>
+<!ELEMENT order (customer_name,
+                 sku,
+                 qty,
+                 unit_price,
+                 product_name)>

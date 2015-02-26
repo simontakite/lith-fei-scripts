@@ -1,0 +1,32 @@
+<!ELEMENT customer-id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT address1 (#PCDATA)>
+<!ELEMENT address2 (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT state (#PCDATA)>
+<!ELEMENT zip (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT billing-contact (#PCDATA)>
+<!ELEMENT billing-contact-phone (#PCDATA)>
+<!ELEMENT bill-id (#PCDATA)>
+<!ELEMENT customer (#PCDATA)>
+<!ELEMENT customer-name (#PCDATA)>
+<!ELEMENT hours-rate (#PCDATA)>
+<!ELEMENT total-bill-amount (#PCDATA)>
+<!ELEMENT item-id (#PCDATA)>
+<!ELEMENT item-name (#PCDATA)>
+<!ELEMENT total-hours (#PCDATA)>
+<!ELEMENT total-svcmtrls (#PCDATA)>
+
+<!ELEMENT Customer (customer-id, name, address1, address2, 
+                    city, state, zip, phone, billing-contact, 
+                    billing-contact-phone)>
+
+<!ELEMENT BillHighlights (bill-id, customer, customer-name, 
+                          total-hours, hours-rate, total-svcmtrls, 
+                          total-bill-amount)>
+
+<!ELEMENT Item (item-id, bill-id, item-name, total-hours, 
+                total-svcmtrls)>
+
+<!ELEMENT BillSummary (Customer, BillHighlights, Item*)>

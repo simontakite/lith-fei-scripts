@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<purchaseOrder>
+  <item>
+    <name>Mushroom Lamp</name>
+    <sku>229-987488</sku>
+    <price>$34.99</price>
+    <qty>1</qty>
+  </item>
+  <item>
+    <name>Bass Drum</name>
+    <sku>228-988347</sku>
+    <price>$199.99</price>
+    <qty>1</qty>
+  </item>
+  <item>
+    <name>Toy Steam Engine</name>
+    <sku>221-388833</sku>
+    <price>$19.99</price>
+    <qty>1</qty>
+  </item>
+</purchaseOrder>

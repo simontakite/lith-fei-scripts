@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+        <item name="bowl" price="19.95"/>
+        <item name="spatula" price="4.95"/>
+        <item name="power mixer" price="149.95"/>
+        <item name="chef hat" price="39.95"/>
+</products>

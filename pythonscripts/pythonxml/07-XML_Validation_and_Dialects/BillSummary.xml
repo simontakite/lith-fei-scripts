@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE BillSummary SYSTEM "BillSummary.dtd">
+<BillSummary>
+  <Customer>
+    <customer-id>34287-AUHE-39383947579</customer-id>
+    <name>Zeropath Corporation</name>
+    <address1>123 Zeropath Street</address1>
+    <address2>
+    </address2>
+    <city>Redmond</city>
+    <state>WA</state>
+    <zip>98052</zip>
+    <phone>425-555-1212</phone>
+    <billing-contact>Larry Boberry</billing-contact>
+    <billing-contact-phone>425-555-1212</billing-contact-phone>
+  </Customer>
+  <BillHighlights>
+    <bill-id>3453439789-6454-77</bill-id>
+    <customer>34287-AUHE-39383947579</customer>
+    <customer-name>Zeropath Corporation</customer-name>
+    <total-hours>80</total-hours>
+    <hours-rate>150</hours-rate>
+    <total-svcmtrls>950</total-svcmtrls>
+    <total-bill-amount>12950</total-bill-amount>
+  </BillHighlights>
+  <Item>
+    <item-id>8289893</item-id>
+    <bill-id>3453439789-6454-77</bill-id>
+    <item-name>Continued Project Work (Backend)</item-name>
+    <total-hours>40</total-hours>
+    <total-svcmtrls>450</total-svcmtrls>
+  </Item>
+  <Item>
+    <item-id>8289894</item-id>
+    <bill-id>3453439789-6454-77</bill-id>
+    <item-name>Continued Project Work (UI)</item-name>
+    <total-hours>40</total-hours>
+    <total-svcmtrls>500</total-svcmtrls>
+  </Item>
+</BillSummary>

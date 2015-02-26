@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE product [
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT price (#PCDATA)>
+        <!ELEMENT product (name, price)>
+]>
+<product>
+        <name>Bean Crusher</name>
+        <price>3.95</price>
+</product>

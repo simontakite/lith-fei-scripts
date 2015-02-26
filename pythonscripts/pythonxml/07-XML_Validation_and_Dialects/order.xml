@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE order SYSTEM "order.dtd">
+<order>
+        <customer_name>eDonkey Enterprises</customer_name>
+        <sku>343-3940938</sku>
+        <qty>4</qty>
+        <unit_price>39.95</unit_price>
+        <product_name>eDonkey Feed Bags</product_name>
+</order>

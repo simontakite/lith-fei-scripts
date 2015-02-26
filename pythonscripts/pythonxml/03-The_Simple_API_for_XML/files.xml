@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<IndexedFiles>
+<file name="/home/fdrake/memos/oreilly/pythonxml/ch07-edits-2001-09-01.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>1887</size>
+	<lastAccessed>Sat Sep  1 03:09:07 2001</lastAccessed>
+	<lastModified>Sat Sep  1 03:09:07 2001</lastModified>
+	<created>Sat Sep  1 03:09:07 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/ch07-edits-2001-09-01.txt: ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/ch03-edits-2001-08-30.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>32308</size>
+	<lastAccessed>Thu Aug 30 21:55:54 2001</lastAccessed>
+	<lastModified>Fri Aug 31 01:10:56 2001</lastModified>
+	<created>Fri Aug 31 01:10:56 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/ch03-edits-2001-08-30.txt: Non-ISO extended-ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/ch04-edits-2001-09-05.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>56043</size>
+	<lastAccessed>Thu Sep  6 09:55:43 2001</lastAccessed>
+	<lastModified>Thu Sep  6 09:55:43 2001</lastModified>
+	<created>Thu Sep  6 09:55:43 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/ch04-edits-2001-09-05.txt: Non-ISO extended-ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/lewin-2.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>11768</size>
+	<lastAccessed>Thu Sep  6 22:36:50 2001</lastAccessed>
+	<lastModified>Thu Sep  6 22:36:51 2001</lastModified>
+	<created>Thu Sep  6 22:37:29 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/lewin-2.txt: ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/lewin-3.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>23717</size>
+	<lastAccessed>Fri Sep  7 20:09:10 2001</lastAccessed>
+	<lastModified>Fri Sep  7 20:09:14 2001</lastModified>
+	<created>Fri Sep  7 20:09:14 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/lewin-3.txt: ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/fig-list.zip">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>3577</size>
+	<lastAccessed>Mon Sep 10 13:04:08 2001</lastAccessed>
+	<lastModified>Mon Sep 10 13:04:09 2001</lastModified>
+	<created>Mon Sep 10 13:04:09 2001</created>
+	<extension>.zip</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/fig-list.zip: Zip archive data, at least v2.0 to extract</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/lewin-4.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>8022</size>
+	<lastAccessed>Mon Sep 10 13:04:43 2001</lastAccessed>
+	<lastModified>Mon Sep 10 13:04:44 2001</lastModified>
+	<created>Mon Sep 10 13:04:44 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/lewin-4.txt: ASCII mail text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/lewin-5.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>3175</size>
+	<lastAccessed>Mon Sep 10 13:07:14 2001</lastAccessed>
+	<lastModified>Mon Sep 10 13:07:14 2001</lastModified>
+	<created>Mon Sep 10 13:07:14 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/lewin-5.txt: ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/appC-edits-2001-09-09.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>17429</size>
+	<lastAccessed>Thu Sep 13 21:04:48 2001</lastAccessed>
+	<lastModified>Thu Sep 13 21:04:48 2001</lastModified>
+	<created>Thu Sep 13 21:04:48 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/appC-edits-2001-09-09.txt: Non-ISO extended-ASCII English text</contents>
+</file><Directory  name="/home/fdrake/memos/oreilly/pythonxml/examples">
+<Directory  name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-01">
+<file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-01/bookhandler.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>517</size>
+	<lastAccessed>Fri Nov  2 10:36:23 2001</lastAccessed>
+	<lastModified>Fri Nov  2 10:41:35 2001</lastModified>
+	<created>Sun Nov  4 11:42:24 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-01/bookhandler.py: ASCII Java program text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-01/dombook.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>495</size>
+	<lastAccessed>Fri Nov  2 10:36:34 2001</lastAccessed>
+	<lastModified>Fri Nov  2 10:36:34 2001</lastModified>
+	<created>Sun Nov  4 11:42:24 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-01/dombook.py: ASCII Java program text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-01/books.xml">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>294</size>
+	<lastAccessed>Fri Nov  2 10:39:41 2001</lastAccessed>
+	<lastModified>Fri Nov  2 10:39:41 2001</lastModified>
+	<created>Sun Nov  4 11:42:24 2001</created>
+	<extension>.xml</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-01/books.xml: ASCII English text</contents>
+</file></Directory>
+<Directory  name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03">
+<file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/article.xml">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>691</size>
+	<lastAccessed>Sun Nov  4 22:59:29 2001</lastAccessed>
+	<lastModified>Sun Nov  4 23:03:26 2001</lastModified>
+	<created>Sun Nov  4 23:03:26 2001</created>
+	<extension>.xml</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/article.xml: XML document text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/index.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>3873</size>
+	<lastAccessed>Sun Nov  4 23:05:03 2001</lastAccessed>
+	<lastModified>Sat Dec 15 23:53:13 2001</lastModified>
+	<created>Sat Dec 15 23:53:13 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/index.py: a python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/files.xml">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>4096</size>
+	<lastAccessed>Sun Dec 16 00:04:14 2001</lastAccessed>
+	<lastModified>Sun Dec 16 00:04:15 2001</lastModified>
+	<created>Sun Dec 16 00:04:15 2001</created>
+	<extension>.xml</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/files.xml: XML document text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/saxfinder.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>889</size>
+	<lastAccessed>Sun Nov  4 11:47:20 2001</lastAccessed>
+	<lastModified>Sun Dec 16 00:04:01 2001</lastModified>
+	<created>Sun Dec 16 00:04:01 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/saxfinder.py: a python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/saxthumbs.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>1561</size>
+	<lastAccessed>Sun Nov  4 11:47:20 2001</lastAccessed>
+	<lastModified>Sun Nov  4 11:47:45 2001</lastModified>
+	<created>Mon Nov  5 01:55:58 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/saxthumbs.py: ASCII Java program text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/thumbmaker.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>275</size>
+	<lastAccessed>Sun Nov  4 11:47:20 2001</lastAccessed>
+	<lastModified>Sun Nov  4 11:47:45 2001</lastModified>
+	<created>Mon Nov  5 01:56:47 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/thumbmaker.py: a /usr/local/bin/python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/genxml.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>1390</size>
+	<lastAccessed>Mon Nov  5 14:44:33 2001</lastAccessed>
+	<lastModified>Mon Nov  5 14:46:06 2001</lastModified>
+	<created>Mon Nov  5 14:46:06 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/genxml.py: a python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/art.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>372</size>
+	<lastAccessed>Sat Dec 15 23:34:07 2001</lastAccessed>
+	<lastModified>Sat Dec 15 23:44:02 2001</lastModified>
+	<created>Sat Dec 15 23:44:02 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/art.py: a python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/handlers.pyc">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>1661</size>
+	<lastAccessed>Sat Dec 15 23:42:19 2001</lastAccessed>
+	<lastModified>Sat Dec 15 23:42:19 2001</lastModified>
+	<created>Sat Dec 15 23:42:19 2001</created>
+	<extension>.pyc</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/handlers.pyc: data</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/handlers.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>855</size>
+	<lastAccessed>Sat Dec 15 23:36:03 2001</lastAccessed>
+	<lastModified>Sat Dec 15 23:41:59 2001</lastModified>
+	<created>Sat Dec 15 23:41:59 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-03/handlers.py: ASCII Java program text</contents>
+</file></Directory>
+<Directory  name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04">
+<file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/article.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>2098</size>
+	<lastAccessed>Sun Nov  4 11:47:20 2001</lastAccessed>
+	<lastModified>Sun Nov  4 22:33:05 2001</lastModified>
+	<created>Sun Nov  4 22:33:05 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/article.py: ASCII Java program text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/domit2.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>543</size>
+	<lastAccessed>Sun Nov  4 11:47:20 2001</lastAccessed>
+	<lastModified>Mon Nov  5 01:12:37 2001</lastModified>
+	<created>Mon Nov  5 01:12:37 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/domit2.py: a python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/domit3.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>596</size>
+	<lastAccessed>Sun Nov  4 11:47:20 2001</lastAccessed>
+	<lastModified>Sun Nov  4 11:47:45 2001</lastModified>
+	<created>Sun Nov  4 23:37:54 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/domit3.py: a /usr/local/bin/python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/domit.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>720</size>
+	<lastAccessed>Sun Nov  4 11:47:20 2001</lastAccessed>
+	<lastModified>Mon Nov  5 01:09:47 2001</lastModified>
+	<created>Mon Nov  5 01:09:47 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/domit.py: a /usr/local/bin/python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/po.xml">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>412</size>
+	<lastAccessed>Sun Nov  4 22:41:33 2001</lastAccessed>
+	<lastModified>Sun Nov  4 22:41:33 2001</lastModified>
+	<created>Sun Nov  4 22:41:33 2001</created>
+	<extension>.xml</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/po.xml: XML document text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/po.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>217</size>
+	<lastAccessed>Sun Nov  4 22:43:54 2001</lastAccessed>
+	<lastModified>Sun Nov  4 22:43:54 2001</lastModified>
+	<created>Sun Nov  4 22:57:43 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/po.py: a python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/textme.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>485</size>
+	<lastAccessed>Sun Nov  4 22:48:52 2001</lastAccessed>
+	<lastModified>Sun Nov  4 22:48:52 2001</lastModified>
+	<created>Sun Nov  4 23:00:57 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/textme.py: a python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/storage.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>752</size>
+	<lastAccessed>Sun Nov  4 23:44:38 2001</lastAccessed>
+	<lastModified>Sun Nov  4 23:44:38 2001</lastModified>
+	<created>Sun Nov  4 23:44:38 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/storage.py: ASCII Java program text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/start.cgi">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>1246</size>
+	<lastAccessed>Mon Nov  5 00:29:42 2001</lastAccessed>
+	<lastModified>Mon Nov  5 01:48:13 2001</lastModified>
+	<created>Mon Nov  5 01:48:13 2001</created>
+	<extension>.cgi</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/start.cgi: a /usr/local/bin/python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/ArticleManager.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>2146</size>
+	<lastAccessed>Sun Nov  4 23:57:47 2001</lastAccessed>
+	<lastModified>Mon Nov  5 00:17:34 2001</lastModified>
+	<created>Mon Nov  5 00:17:34 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-04/ArticleManager.py: ASCII Java program text</contents>
+</file></Directory>
+<Directory  name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-05">
+<file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-05/ships.xml">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>866</size>
+	<lastAccessed>Mon Nov  5 23:31:00 2001</lastAccessed>
+	<lastModified>Mon Nov  5 23:40:32 2001</lastModified>
+	<created>Mon Nov  5 23:40:32 2001</created>
+	<extension>.xml</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-05/ships.xml: XML document text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-05/xp.py">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>1158</size>
+	<lastAccessed>Mon Nov  5 23:43:13 2001</lastAccessed>
+	<lastModified>Tue Nov  6 00:32:17 2001</lastModified>
+	<created>Tue Nov  6 00:32:17 2001</created>
+	<extension>.py</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-05/xp.py: a python script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-05/fleets.xml">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>325</size>
+	<lastAccessed>Tue Nov  6 00:04:09 2001</lastAccessed>
+	<lastModified>Tue Nov  6 00:11:58 2001</lastModified>
+	<created>Tue Nov  6 00:11:58 2001</created>
+	<extension>.xml</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/Chapter-05/fleets.xml: ASCII text</contents>
+</file></Directory>
+<file name="/home/fdrake/memos/oreilly/pythonxml/examples/checkwf">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>272</size>
+	<lastAccessed>Mon Nov  5 23:34:08 2001</lastAccessed>
+	<lastModified>Mon Nov  5 23:40:28 2001</lastModified>
+	<created>Mon Nov  5 23:40:28 2001</created>
+	<extension></extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/checkwf: Bourne shell script text executable</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/examples/MANIFEST.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>384</size>
+	<lastAccessed>Sat Dec 15 23:27:09 2001</lastAccessed>
+	<lastModified>Sat Dec 15 23:27:09 2001</lastModified>
+	<created>Sat Dec 15 23:27:09 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/examples/MANIFEST.txt: ASCII text</contents>
+</file></Directory>
+<file name="/home/fdrake/memos/oreilly/pythonxml/fig3-1.fig">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>1470</size>
+	<lastAccessed>Thu Sep 13 22:10:03 2001</lastAccessed>
+	<lastModified>Thu Sep 13 22:10:03 2001</lastModified>
+	<created>Thu Sep 13 22:10:03 2001</created>
+	<extension>.fig</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/fig3-1.fig: FIG image text, version 3.2</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/fig3-1.gif">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>2934</size>
+	<lastAccessed>Thu Sep 13 22:06:38 2001</lastAccessed>
+	<lastModified>Thu Sep 13 22:09:22 2001</lastModified>
+	<created>Thu Sep 13 22:09:22 2001</created>
+	<extension>.gif</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/fig3-1.gif: GIF image data, version 87a, 643 x 301,</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/copyedits-2001-10-oct-16.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>8147</size>
+	<lastAccessed>Tue Oct 16 22:37:55 2001</lastAccessed>
+	<lastModified>Wed Oct 17 09:34:03 2001</lastModified>
+	<created>Wed Oct 17 09:34:03 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/copyedits-2001-10-oct-16.txt: ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/copyedits-2001-10-oct-17.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>2691</size>
+	<lastAccessed>Wed Oct 17 23:52:36 2001</lastAccessed>
+	<lastModified>Thu Oct 18 02:04:16 2001</lastModified>
+	<created>Thu Oct 18 02:04:16 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/copyedits-2001-10-oct-17.txt: ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/back-cover.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>1726</size>
+	<lastAccessed>Wed Oct 24 11:20:21 2001</lastAccessed>
+	<lastModified>Wed Oct 24 11:24:22 2001</lastModified>
+	<created>Wed Oct 24 11:24:22 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/back-cover.txt: ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/qc1-ch01-2001-11-02.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>3864</size>
+	<lastAccessed>Fri Nov  2 10:47:21 2001</lastAccessed>
+	<lastModified>Fri Nov  2 11:15:44 2001</lastModified>
+	<created>Fri Nov  2 11:15:44 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/qc1-ch01-2001-11-02.txt: ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/qc1-ch02-2001-11-03.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>11897</size>
+	<lastAccessed>Sat Nov  3 22:39:31 2001</lastAccessed>
+	<lastModified>Sun Nov  4 00:47:37 2001</lastModified>
+	<created>Sun Nov  4 00:47:37 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/qc1-ch02-2001-11-03.txt: ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/qc1-ch03-2001-11-04.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>9413</size>
+	<lastAccessed>Sun Nov  4 00:52:40 2001</lastAccessed>
+	<lastModified>Sun Nov  4 02:15:56 2001</lastModified>
+	<created>Sun Nov  4 02:15:56 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/qc1-ch03-2001-11-04.txt: ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/qc1-ch03-2001-11-05.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>308</size>
+	<lastAccessed>Mon Nov  5 00:46:04 2001</lastAccessed>
+	<lastModified>Mon Nov  5 00:46:04 2001</lastModified>
+	<created>Mon Nov  5 00:46:04 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/qc1-ch03-2001-11-05.txt: ASCII text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/qc1-ch04-2001-11-05.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>9897</size>
+	<lastAccessed>Mon Nov  5 00:50:26 2001</lastAccessed>
+	<lastModified>Mon Nov  5 01:53:55 2001</lastModified>
+	<created>Mon Nov  5 01:53:55 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/qc1-ch04-2001-11-05.txt: ASCII English text</contents>
+</file><file name="/home/fdrake/memos/oreilly/pythonxml/qc1-misc-2001-11-06.txt">
+	<userID>4104</userID>
+	<groupID>4104</groupID>
+	<size>4404</size>
+	<lastAccessed>Tue Nov  6 14:35:59 2001</lastAccessed>
+	<lastModified>Tue Nov  6 15:04:19 2001</lastModified>
+	<created>Tue Nov  6 15:04:19 2001</created>
+	<extension>.txt</extension>
+	<contents>/home/fdrake/memos/oreilly/pythonxml/qc1-misc-2001-11-06.txt: ASCII English text</contents>
+</file></IndexedFiles>

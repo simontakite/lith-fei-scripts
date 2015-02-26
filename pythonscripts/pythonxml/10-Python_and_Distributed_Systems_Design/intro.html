@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+<TITLE>SuperUltraMegaCorp Shopping Portal</TITLE>
+</HEAD>
+<BODY>
+<P align="center"><h1>SuperUltraMegaCorp Shopping Portal</h1></P>
+
+<P>Greetings, if you haven't logged in, please take a minute
+   to do so.  This site is personalized, and your personal
+   information along with special offers are made available
+   thanks to our XML processing infrastructure built and
+   powered by Python.  This web site dispatches little XML messages
+   to and from an XML Switch.  This swith directs the XML message
+   to the right resource, submits the message to the handler, and
+   then returns the XML back to this web site.  The XML can then
+   be displayed to you as profile information and special offers.
+
+<P>
+  <h1>Welcome</h1>
+  <form name=login action="/cgi-bin/sp.py"
+        method="GET">
+    Please enter a valid Customer ID* <br>
+    <input type="text" size="15" name="id">&nbsp;
+    <input type=submit value=" login ">
+    <input type="hidden" name="mode" value="login">
+    </form>
+</P>
+<p>*this ID must exist in your Profiles database!</p>
+</BODY>
+</HTML>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfferXMLStore>
+  <offer>
+    <id>9908d093j4p3j33</id>
+    <internal-name>DiscountOver1000</internal-name>
+    <heading>20% Off All Orders Over $1000.00</heading>
+    <description>
+    As an incentive for you to purchase more,
+    we're offering a 20% volume discount on all
+    orders totaling $1000 or more!  This amazing
+    discount is being brought to you because you
+    are such an important customer to us.  We love
+    you so much!
+    </description>
+    <discount>20</discount>
+    <discount-type>percent</discount-type>
+    <expires>2002-11-21</expires>
+    <disclaimer>
+    Discount subject to certain restrictions.  Merchandise
+    must not be under any other discounts, and discount is
+    taken from MSRP only.  Discount may not be applied in
+    some cases if we think you are likely to buy the product
+    without a discount.  We may revoke this discount whenever
+    we want, including after you place your order.  Sorry.
+    </disclaimer>
+  </offer>
+  <offer>
+    <id>222833fgjQZ3j30</id>
+    <internal-name>Clearance</internal-name>
+    <heading>20% Off All Clearance Items</heading>
+    <description>
+    In an effort to reduce our inventory of the items
+    that just don't seem to sell as well as our other
+    merchandise, we're offering a 20% deduction on all
+    items marked clearance!  This is because you are
+    such an important customer to us.  We love you so
+    much.
+    </description>
+    <discount>20</discount>
+    <discount-type>percent</discount-type>
+    <expires>2002-11-21</expires>
+    <disclaimer>
+    Discount subject to certain restrictions.  Merchandise
+    must be marked clearance.  In some cases, some items
+    marked clearance may have the mark removed at time of
+    purchase.  If this happens to you, the full price of the
+    product will be charged to your card.  Sorry.
+    </disclaimer>
+  </offer>
+</OfferXMLStore>

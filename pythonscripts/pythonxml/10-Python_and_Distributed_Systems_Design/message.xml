@@ -1,0 +1,9 @@
+<message>
+  <header><rpc/></header>
+  <body>
+    <object class="CustomerProfile"
+            method="getProfile">
+      <param>234-E838839</param>
+    </object>
+  </body>
+</message>

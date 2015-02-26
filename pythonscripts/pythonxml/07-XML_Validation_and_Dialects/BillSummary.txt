@@ -1,0 +1,39 @@
+#
+# Bill Summary
+#
+Bill Summary, Format 1.2
+Section: Customer
+customer-id: 34287-AUHE-39383947579
+name: Zeropath Corporation
+address1: 123 Zeropath Street
+address2: 
+city: Redmond
+state: WA
+zip: 98052
+phone: 425-555-1212
+billing-contact: Larry Boberry
+billing-contact-phone: 425-555-1212
+
+Section: Bill Highlights
+bill-id: 3453439789-6454-77
+customer: 34287-AUHE-39383947579
+customer-name: Zeropath Corporation
+total-hours: 80
+hours-rate: 150
+total-svcmtrls: 950
+total-bill-amount: 12950
+
+Section: Item
+item-id: 8289893
+bill-id: 3453439789-6454-77
+item-name: Continued Project Work (Backend)
+total-hours: 40 
+total-svcmtrls: 450
+
+Section: Item
+item-id: 8289894
+bill-id: 3453439789-6454-77
+item-name: Continued Project Work (UI)
+total-hours: 40
+total-svcmtrls: 500
+
